@@ -70,9 +70,3 @@ I build production web and mobile apps, the real-time systems behind them, and r
 - Real-time systems and live tracking
 - AI product engineering, shipping ML and LLM features into real apps
 - Reinforcement-learning environments and the graders that keep them honest
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HirajG&show_icons=true&hide_border=true&title_color=B4432B&icon_color=B4432B&text_color=555555" alt="Hiraj's GitHub stats" height="150">
-</p>
