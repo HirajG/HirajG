@@ -10,6 +10,7 @@ I build production web and mobile apps, the real-time systems behind them, and r
   <a href="https://hirajg.github.io"><img src="https://img.shields.io/badge/Portfolio-1A1815?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:developer.hiraj@gmail.com"><img src="https://img.shields.io/badge/Email-B4432B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/hiraj-gajera-17483a118"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.upwork.com/freelancers/~017e9274e9fb1b65ec"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"></a>
 </p>
 
 ---
