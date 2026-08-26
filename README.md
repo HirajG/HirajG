@@ -25,7 +25,7 @@ I build production web and mobile apps, the real-time systems behind them, and r
 
 ### Experience
 
-- **AI Software Engineer** · RL Labs · Jan 2026 – Present
+- **Applied Research Engineer** · Jan 2026 – Present
 - **Full-Stack Developer** · Upwork (Freelance) · May 2021 – Present
 - **Front-End Engineer** · Tracknerd · Jan 2023 – Feb 2024  (real-time tracking, 28,000+ daily users)
 - **React Native Developer** · Certum Ventures · Aug 2022 – Jan 2023
